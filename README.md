@@ -2,7 +2,7 @@
 
 [https://www.reddit.com/r/ProgrammerHumor/comments/1csgw6d/]
 
-Users are free to submit design iterations, ideas and feedback to improve this machine's efficiency and raise issues to highlight problems which could be faced. Credit to the original innovation by @mcharytoniuk 
+Users are free to submit design iterations, ideas and feedback to improve this machine's efficiency and raise issues to highlight problems which could be faced. Credit to the original innovation by @mcharytoniuk (see his other stuff: [distantmagic](https://github.com/distantmagic))
 
 These machine blueprints can be utilized to solve market crises, demand and supply can be equalized. If you suffer from too much competition, install this using our blueprint and developers would be utilized for noble cause.
 
